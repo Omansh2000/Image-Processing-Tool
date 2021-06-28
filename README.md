@@ -1,6 +1,6 @@
 It is a desktop application tool in python. With the help of this tool we can convert a coloured image to a grayscale image. We can also adjust the brightness and the contrast of that image.
 
-Methods used to coonvert an image to different shades of Grayscale are -
+Methods used to convert an image to different shades of Grayscale are -
 1. Max method
 2. Min method
 3. Average method
