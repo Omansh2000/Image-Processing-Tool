@@ -15,6 +15,10 @@ Choosing of an image for processing -
 
 ![ipt2](https://user-images.githubusercontent.com/70911657/123665434-e7efbc00-d855-11eb-89e3-a9b016a64fae.PNG)
 
+Original image which is to be converted in different grayscale shades -
+
+![ipt6](https://user-images.githubusercontent.com/70911657/123739001-882ffa00-d8c3-11eb-8f6b-c88a22cce97c.PNG)
+
 Max Method -
 
 ![ipt3](https://user-images.githubusercontent.com/70911657/123665658-1c637800-d856-11eb-9bb5-ab697394cbe8.PNG)
